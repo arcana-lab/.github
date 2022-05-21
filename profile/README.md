@@ -2,4 +2,4 @@
 
 We are a compiler research group at Northwestern University.
 
-For more information see our ![website](https://users.cs.northwestern.edu/~simonec/#gsc.tab=0)
+For more information see our [website](https://users.cs.northwestern.edu/~simonec/#gsc.tab=0)
