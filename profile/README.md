@@ -1,4 +1,3 @@
-## ARCANA  Rethinks Compiler Abstractions for New Applications
 ![image](./Logo.png)
 
 We are a compiler research group at Northwestern University.
