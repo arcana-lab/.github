@@ -1,5 +1,5 @@
-![image](https://github.com/arcana-lab/.github/blob/main/profile/ArcanaLogoDark.jpg#gh-dark-mode-only)
-![image](https://github.com/arcana-lab/.github/blob/main/profile/ArcanaLogoLight.jpg#gh-light-mode-only)
+![image](https://github.com/arcana-lab/.github/blob/main/profile/ArcanaLogoDark.png#gh-dark-mode-only)
+![image](https://github.com/arcana-lab/.github/blob/main/profile/ArcanaLogoLight.png#gh-light-mode-only)
 
 We are a compiler research group at Northwestern University led by [Simone Campanoni](https://users.cs.northwestern.edu/~simonec)
 
