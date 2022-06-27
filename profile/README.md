@@ -1,4 +1,4 @@
-![image](https://users.cs.northwestern.edu/~simonec/files/Team/ARCANA/Logo.png)
+![image](https://users.cs.northwestern.edu/~simonec/files/Team/ARCANA/'Arcana Logo Full.png')
 
 We are a compiler research group at Northwestern University led by [Simone Campanoni](https://users.cs.northwestern.edu/~simonec)
 
